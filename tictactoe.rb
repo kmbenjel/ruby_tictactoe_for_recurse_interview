@@ -1,7 +1,14 @@
 require './design.rb'
-puts "Player one: what's your name?:"
+puts "------------------"
+puts "   Tic-Tac-Toe   "
+puts "------------------"
+puts "\n"
+puts "****  WELCOME ABROAD  ****"
+puts "\n"
+print "Player one: what's your name?: "
 player_one = gets.chomp
-puts "Player two: what's your name?"
+print "Player two: what's your name?: "
 player_two = gets.chomp
 
+puts "Let's go!"
      
