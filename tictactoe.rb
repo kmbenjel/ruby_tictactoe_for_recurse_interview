@@ -1,8 +1,6 @@
 require './design.rb'
 puts "------------------"
-sleep(0.2)
 puts "   Tic-Tac-Toe   "
-sleep(0.2)
 puts "------------------"
 sleep(1)
 puts "\n"
@@ -12,9 +10,10 @@ sleep(1.5)
 print "Player one: What's your name?: "
 player_one = gets.chomp
 puts "Nice to meet you, #{player_one}!"
+sleep(1)
 print "Player two: what's your name?: "
 player_two = gets.chomp
-puts "Nice to meet you, #{player_one}!"
-
+puts "Nice to meet you, #{player_two}!"
+sleep(1)
 puts "Let's go!"
      
