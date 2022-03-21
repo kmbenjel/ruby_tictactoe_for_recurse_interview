@@ -7,6 +7,7 @@ puts "****  WELCOME ABROAD  ****"
 puts "\n"
 print "Player one: what's your name?: "
 player_one = gets.chomp
+puts "Welcome, {player_one}!"
 print "Player two: what's your name?: "
 player_two = gets.chomp
 
