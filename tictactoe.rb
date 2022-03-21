@@ -10,7 +10,9 @@ sleep(1.5)
 print "Player one: What's your name?: "
 player_one = gets.chomp
 puts "Nice to meet you, #{player_one}!"
-sleep(1)
+sleep(0.5)
+puts "-----------------"
+sleep(0.5)
 print "Player two: what's your name?: "
 player_two = gets.chomp
 puts "Nice to meet you, #{player_two}!"
