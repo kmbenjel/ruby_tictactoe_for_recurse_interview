@@ -1,7 +1,7 @@
 require './design.rb'
-puts "------------------"
+puts "-----------------"
 puts "   Tic-Tac-Toe   "
-puts "------------------"
+puts "-----------------"
 sleep(0.7)
 puts "\n"
 puts "****  WELCOME ABROAD  ****"
