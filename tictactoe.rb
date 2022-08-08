@@ -1,4 +1,3 @@
-require './design.rb'
 puts "-----------------"
 puts "   Tic-Tac-Toe   "
 puts "-----------------"
