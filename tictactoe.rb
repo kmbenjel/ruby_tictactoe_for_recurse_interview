@@ -16,4 +16,6 @@ print "Player two: what's your name?: "
 player_two = gets.chomp
 puts "Nice to meet you, #{player_two}!"
 sleep(0.7)
-player_one_turn = puts "Your turn, #{player_one}"
+#puts "Your turn, #{player_one}"
+
+
